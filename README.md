@@ -4,4 +4,4 @@ Parking System Integrated Solution:  A mini project to refresh my technical know
 
 **Why desktop app?** 
 
-A desktop application may be preferred for a parking system over a web browser due to advantages in reliability, performance, offline access, and enhanced hardware control.
+A desktop application may be preferred for a parking system over a web browser due to advantages in **reliability**, **performance**, **offline access**, and enhanced **hardware control**.
