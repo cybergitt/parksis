@@ -1,6 +1,6 @@
 # PARKSIS
 
-Parking System Integrated Solution:  A mini project to refresh my technical knowledge about VB.NET (Desktop App) and Python with FASTAPI. 
+Parking System Integrated Solution:  A mini project to refresh my technical knowledge about VB.NET (Client Apps) and .NET Core 8 (Backend). 
 
 **Why desktop app?** 
 
